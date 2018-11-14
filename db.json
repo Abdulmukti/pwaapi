@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Burrowing owl","category":"Teal"},
+{"id":2,"name":"Ground monitor (unidentified)","category":"Puce"},
+{"id":3,"name":"Pronghorn","category":"Teal"},
+{"id":4,"name":"Thrasher, curve-billed","category":"Turquoise"},
+{"id":5,"name":"Orca","category":"Orange"},
+{"id":6,"name":"Squirrel, antelope ground","category":"Fuscia"},
+{"id":7,"name":"Red meerkat","category":"Goldenrod"},
+{"id":8,"name":"Possum, western pygmy","category":"Mauv"},
+{"id":9,"name":"Waxbill, black-cheeked","category":"Violet"},
+{"id":10,"name":"Paradoxure","category":"Aquamarine"},
+{"id":11,"name":"Bison, american","category":"Teal"},
+{"id":12,"name":"European badger","category":"Maroon"},
+{"id":13,"name":"Sheep, stone","category":"Pink"},
+{"id":14,"name":"Crane, sarus","category":"Maroon"},
+{"id":15,"name":"Dromedary camel","category":"Green"},
+{"id":16,"name":"European wild cat","category":"Green"},
+{"id":17,"name":"Spectacled caiman","category":"Violet"},
+{"id":18,"name":"Slender loris","category":"Green"},
+{"id":19,"name":"Sheep, stone","category":"Maroon"},
+{"id":20,"name":"Pied cormorant","category":"Teal"}
+]
+}
